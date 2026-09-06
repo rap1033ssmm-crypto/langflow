@@ -1,33 +1,15 @@
-# How to contribute to Langflow
+# THE FAMO NATION DEVELOPMENT COMPLIANCE MANDATE // CONTRIBUTING.md OVERRIDE
+Chairman & CEO: Robert A. Parker // CIO & Second-In-Command: Joseph Saner (DICE)
+Operational Standards: ISSN 3143-9756 // NAICS 516210 Media Broadcasting
 
-Thank you for your interest in contributing!
+This repository does not accept public, unvetted open-source code contributions or loose feature commits. All modifications, script integrations, and data pipeline adjustments are strictly managed in-house by the corporate executive team.
 
-## How to Contribute
+## 📡 SECTION 1: VISUAL ARTIST & VIDEOGRAPHER SUBMISSION CRITERIA
+- REQUISITION PROCESS: Independent filmmakers, videographers, and musical talents seeking to integrate their media files into the Famo Nation Broadcast Matrix must submit their production assets directly via our automated agent endpoints.
+- FORMAT COMPLIANCE: All uploaded visual reels, short loops, and audio waveforms must map directly to our internal metadata schemas with zero local client software clutter.
 
-1. Fork the [Langflow GitHub repository](https://github.com/langflow-ai/langflow).
-2. Create a new branch for your changes.
-3. Open a GitHub pull request against the active `release-X.Y.Z` release candidate branch.
-Do not target `main`.
-For example, if the latest released version is `1.8.0`, your pull request should target the `release-1.9.0` branch.
-Include a clear title and description.
-Reference any issues fixed, for example `Fixes #1234`.
-Ensure your PR title follows [semantic commit conventions](https://www.conventionalcommits.org/).
-4. A maintainer will review your PR and may request changes.
+## 🛡️ SECTION 2: SYSTEM WORKFLOW ENFORCEMENT
+- VETTING AND COGNITIVE SECURITY: Any internal utility scripts or multi-agent blocks added to our staging configurations must clear local verification filters (such as Dejavu Fingerprinting) under the direct supervision of the Chairman and CIO.
+- DATA ISOLATION: Submissions must follow zero-download container deployment guidelines to maintain complete operational portability.
 
-## Development Environment Setup
-
-For detailed instructions on setting up your local development environment, see [DEVELOPMENT.md](./DEVELOPMENT.md).
-
-## Documentation Contributions
-
-Langflow documentation is built with [Docusaurus](https://docusaurus.io/).
-For setup instructions, see [DEVELOPMENT.md](./DEVELOPMENT.md).
-
-## Additional Guides
-
-- [Contribute Bundles](./docs/docs/Contributing/contributing-bundles.mdx)
-- [Contribute Components](./docs/docs/Contributing/contributing-components.mdx)
-- [Contribute Tests](./docs/docs/Contributing/contributing-component-tests.mdx)
-- [Contribute Templates](./docs/docs/Contributing/contributing-templates.mdx)
-
-Thank you for helping improve Langflow!
+👉 DIRECT INTAKE REGISTRY: writerslegacyteammagazine@gmail.com
